@@ -1,0 +1,32 @@
+/* start  */
+
+h1 {
+  margin: 50px auto;
+}
+.complete {
+  color: red;
+  font-weight: bold;
+  font-size: 19px;
+}
+.notsinished {
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.container .manage {
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+form label {
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+form input {
+  margin-bottom: 20px;
+  padding: 12px !important;
+}
+table tr:first-child {
+  font-weight: bold;
+}
+
+/* end  */
