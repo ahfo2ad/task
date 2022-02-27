@@ -19,7 +19,7 @@ include "functions.php";
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700;800;900&display=swap" rel="stylesheet">
-    <title>contact form</title>
+    <title>task</title>
 </head>
 <body>
 
